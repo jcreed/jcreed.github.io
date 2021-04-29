@@ -1,19 +1,18 @@
 # Jobs
 # VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+- company: LIAISON INTERNATIONAL (formerly, Academic Software Plus)
+  position: Senior Software Engineer
+  duration: March 2013 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Develop and maintain new features for WebAdMIT, a large&mdash;scale Ruby on Rails admissions application</li><li>Improve performance with the ETL process transforming applicant XML to create, update and delete data using RabbitMQ as a message broker</li><li>Implementation of user&mdash;facing RESTful APIs</li><li>Utilize test driven development</li><li>AWS S3 integration for user export/report storage and downloads</li><li>Drive a Rails upgrade moving from 3.2.22 to 4.0.13</li><li>Troubleshoot and fix bug issues on multiple environments</li><li>Run daily stand&mdash;ups, sprint planning, grooming and team retros using agile practices</li><li>Version control using Git</li><li>Handle releases, hot fixes and production deploys</li></ul>
 
 # Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
-
+- company: ACADEMIC SOFTWARE PLUS
+  position: Software Applications Developer
+  duration: January 2011 &mdash; February, 2015
+  summary: <ul class="resume-item-list"><li>Maintained 11 Visual FoxPro software applications</li><li>ackaged and deployed initial product releases and year round updates</li><li>Skilled object oriented programmer fully adept at object oriented design and analysis</li><li>Responsible for programming and source code control while assisting with builds and releases</li><li>Designed a data import logging system allowing users to track updates to their applicant database</li><li>System redesign including refactoring of procedures to simplifying code and increase shared functionality</li><li>Handled all phases of project development including the creation of classes, forms, menus, reports and custom procedures</li></ul>
 
 # Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+- company: ADVANCED MARKETING
+  position: Lead Programmer / Data Processor
+  duration: 1985 &mdash; December, 2010
+  summary: <ul class="resume-item-list"><li>Created, maintained and integrated all computer department applications with COBOL, C and FoxPro/SQL for direct mail data processing that reduced several job tasks by 50 – 70%</li><li>Designed, programmed and implemented a demographic profiling application</li><li>Performed data analysis using relational database selections and SQL queries</li><li>Converted and processed database lists of over a million records consisting of more than 40 input sources of multiple formats</li><li>Processed data using; segmentation, merge purge, nixie suppressions, data cleansing, name separations and field casing </li><li>Improved data quality by updating addresses to USPS specifications using NCOA and Zip+4 standards and sorting for postal discounts</li><li>Performed multiple job tasks concurrently while meeting customer deadlines.</li><li>Mentored employees, developing their skills in relational database processing.</li><li>Provided customer support</li></ul>

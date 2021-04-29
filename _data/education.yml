@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Bachelor of Computer Information Systems
+  uni: STATE UNIVERSITY OF NEW YORK COLLEGE AT BUFFALO
+  year: Graduated in May 2005
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: GPA 4.0; Dean’s List 6 Semesters
+  summary: <ul class="resume-item-list"><li>National Science Foundation, Computer Science, Engineering and Mathematics Scholarship</li><li>Developed an inventory system for the Buffalo State College Chemistry Department utilizing Microsoft Access and Visual Basic </li></ul>
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Associates in Occupational Studies, Computer Programming
+  uni: BRYANT & STRATTON BUSINESS INSTITUTE
+  year: Graduated in December 1984
+  award:
+  summary:
