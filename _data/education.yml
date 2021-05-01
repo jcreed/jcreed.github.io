@@ -3,8 +3,7 @@
   uni: STATE UNIVERSITY OF NEW YORK COLLEGE AT BUFFALO
   year: Graduated in May 2005
   awards:
-    - award: GPA 4.0; Dean’s List 6 Semesters
-  summary: <ul class="resume-item-list"><li>National Science Foundation, Computer Science, Engineering and Mathematics Scholarship</li><li>Developed an inventory system for the Buffalo State College Chemistry Department utilizing Microsoft Access and Visual Basic </li></ul>
+  summary: <ul class="resume-item-list"><li>GPA 4.0; Dean’s List 6 Semesters</li><li>National Science Foundation, Computer Science, Engineering and Mathematics Scholarship</li><li>Developed an inventory system for the Buffalo State College Chemistry Department utilizing Microsoft Access and Visual Basic </li></ul>
 
 - degree: Associates in Occupational Studies, Computer Programming
   uni: BRYANT & STRATTON BUSINESS INSTITUTE
